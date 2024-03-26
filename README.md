@@ -1,13 +1,15 @@
+# MT-CSD
+
 <font size='5'>**A Challenge Dataset and Effective Models for Conversational Stance Detection**
 
 Fuqiang Niu, Min Yang, Ang Li, Baoquan Zhang, Xiaojiang Peng, Bowen Zhang
 
 </font> <a href='https://arxiv.org/abs/2403.11145'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
-# Data
+## Data
 The text content is in the csv file, and the json file is the text index and stance label.
 
-# GLAN Model
+## GLAN Model
 The code is being sorted out.
 
 
