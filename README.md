@@ -1,11 +1,18 @@
 # MT-CSD
 
+<font size='5'>**A Challenge Dataset and Effective Models for Conversational Stance Detection**</font> <a href='https://arxiv.org/abs/2403.11145'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+
+Fuqiang Niu, Min Yang, Ang Li, Baoquan Zhang, Xiaojiang Peng, Bowen Zhang
+
 # data
 The text content is in the csv file, and the json file is the text index and stance label.
 
+# GLAN model
+The code is being sorted out.
 
-If using data, please cite the article:
-```
+If you're using data in your research or applications, please cite using this BibTeX:
+```bibtex
+
 @article{niu2024challenge,
   title={A Challenge Dataset and Effective Models for Conversational Stance Detection},
   author={Niu, Fuqiang and Yang, Min and Li, Ang and Zhang, Baoquan and Peng, Xiaojiang and Zhang, Bowen},
