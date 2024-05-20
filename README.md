@@ -17,25 +17,10 @@ If you're using data in your research or applications, please cite using this Bi
 ```bibtex
 
 
-@inproceedings{niu-etal-2024-challenge-dataset,
-    title = "A Challenge Dataset and Effective Models for Conversational Stance Detection",
-    author = "Niu, Fuqiang  and
-      Yang, Min  and
-      Li, Ang  and
-      Zhang, Baoquan  and
-      Peng, Xiaojiang  and
-      Zhang, Bowen",
-    editor = "Calzolari, Nicoletta  and
-      Kan, Min-Yen  and
-      Hoste, Veronique  and
-      Lenci, Alessandro  and
-      Sakti, Sakriani  and
-      Xue, Nianwen",
-    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
-    month = may,
-    year = "2024",
-    address = "Torino, Italy",
-    publisher = "ELRA and ICCL",
-    url = "https://aclanthology.org/2024.lrec-main.11",
-    pages = "122--132"
+@inproceedings{niu2024challenge,
+  title={A Challenge Dataset and Effective Models for Conversational Stance Detection},
+  author={Niu, Fuqiang and Yang, Min and Li, Ang and Zhang, Baoquan and Peng, Xiaojiang and Zhang, Bowen},
+  booktitle={Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
+  pages={122--132},
+  year={2024}
 }
