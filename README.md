@@ -10,7 +10,13 @@ Fuqiang Niu, Min Yang, Ang Li, Baoquan Zhang, Xiaojiang Peng, Bowen Zhang
 The text content is in the csv file, and the json file is the text index and stance label.
 
 ## GLAN Model
-The code is being sorted out.
+Run the following code:
+
+```
+pip install -r requirements.txt
+
+python ./code/train.py
+```
 
 
 If you're using data in your research or applications, please cite using this BibTeX:
