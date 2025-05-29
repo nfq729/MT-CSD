@@ -30,7 +30,7 @@ def main():
     parser.add_argument('--device', default='cuda:0', type=str, help='e.g. cuda:0')
     parser.add_argument('--max_seq_len', default=512, type=int)
     parser.add_argument('--batch_size', default=32, type=int, help='try 16, 32, 64 for BERT models')
-    parser.add_argument('--pretrained_bert_name', default='bert-base-chinese', type=str)
+    parser.add_argument('--pretrained_bert_name', default='bert-base-uncased', type=str)
     parser.add_argument('--hop', default=3, type=int, help='')
     parser.add_argument('--lambdaa', default=0.2, type=float, help='')
     parser.add_argument('--optimizer', default='adam', type =str)
